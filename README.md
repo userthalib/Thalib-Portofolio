@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
@@ -43,3 +44,7 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+=======
+# Thalib-Portofolio
+My Porto
+>>>>>>> a3628255267b37bd0bc5e0a8d773a341745e6ace
